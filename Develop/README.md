@@ -1,6 +1,9 @@
 # Note-Taker
 
+Check out the [Video of the Note Taker walk through here!](https://drive.google.com/file/d/10R3JO1j6Dv4jcMB_uy-uSNBkIFtIrzZA/view)
+
 Explore the [Deployed NOte Taker on Heroku]()
+
 View the [Note Taker Github page](https://github.com/suzylebel/Note-Taker)
 
 
