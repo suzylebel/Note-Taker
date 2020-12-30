@@ -61,7 +61,7 @@ app.delete("/api/notes/:id", (req, res) =>
 })
 
 // HTML Routes (pulled here instead of file)
-// =============================================================
+// 
 
 //sends user to note page
 app.get("/notes", function(req, res) {
@@ -76,8 +76,8 @@ app.get("*", function(req, res) {
 });
 
 
-// Starts the server to begin listening
-// =============================================================
+// Starts the server
+
 app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);
 });
