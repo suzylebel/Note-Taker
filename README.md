@@ -2,12 +2,9 @@
 
 Check out the [Video of the Note Taker walk through here!](https://drive.google.com/file/d/10R3JO1j6Dv4jcMB_uy-uSNBkIFtIrzZA/view)
 
-Explore the [Deployed NOte Taker on Heroku]()
+Explore the [Deployed NOte Taker on Heroku](https://notetakersuzy.herokuapp.com/)
 
 View the [Note Taker Github page](https://github.com/suzylebel/Note-Taker)
-
-
-
 
 
 
@@ -36,7 +33,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 Check out the [Video of the project walk through here!](https://drive.google.com/file/d/10R3JO1j6Dv4jcMB_uy-uSNBkIFtIrzZA/view)
 
-Explore the [Deployed NOte Taker on Heroku]()
+Explore the [Deployed NOte Taker on Heroku](https://notetakersuzy.herokuapp.com/)
 
 This application is a note taker so the user can create notes and delete as needed. They are stored in a database.
 
